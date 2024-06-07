@@ -17,10 +17,12 @@ Population Explorer is a sleek and intuitive web application built with React.js
 
 ## Installation
 1.) Clone the repository:
+
       git clone https://github.com/your-username/population-explorer.git
       cd population-explorer
 
 2.) Install dependencies:
+
       npm install
 
 
