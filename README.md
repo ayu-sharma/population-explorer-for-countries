@@ -18,8 +18,8 @@ Population Explorer is a sleek and intuitive web application built with React.js
 ## Installation
 1.) Clone the repository:
 
-      git clone https://github.com/your-username/population-explorer.git
-      cd population-explorer
+      git clone https://github.com/ayu-sharma/population-explorer-for-countries.git
+      cd population-explorer-for-countries
 
 2.) Install dependencies:
 
