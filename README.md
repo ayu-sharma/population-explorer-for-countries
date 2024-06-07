@@ -46,7 +46,6 @@ Population Explorer is a sleek and intuitive web application built with React.js
 
 ## Acknowledgments
 - Thanks to the team at Postman for providing the Counties and Cities API.
-- Built as part of an internship assignment.
 
 
 
