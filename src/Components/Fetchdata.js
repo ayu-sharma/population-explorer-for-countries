@@ -48,7 +48,8 @@ function Fetchdata({searchTerm}) {
         <TableBody>
           {filteredPosts.map((post, index) => (
             <TableRow key={index}>
-              <TableCell component="th" scope="row">
+              <TableCell component="th" scope="row"
+              style={{maxWidth: "200px", wordWrap: "break-word" }}>
                 {post.city}
               </TableCell>
               
